@@ -60,6 +60,7 @@ Add:
 ```txt
 0.0.0.0/0
 ```
+Get the MONGO_URI string
 
 ---
 
@@ -76,7 +77,7 @@ Add:
 ```env
 PORT=5000
 
-MONGO_URI=mongodb+srv://USERNAME:PASSWORD@cluster.mongodb.net/syncup?retryWrites=true&w=majority
+MONGO_URI= YOUR_MONGO_URI_STRING
 
 REDIS_URL=redis://localhost:6379
 
