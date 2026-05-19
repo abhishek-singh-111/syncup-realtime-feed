@@ -4,15 +4,15 @@
 
 ## Home Page
 
-![Home Page](./screenshots/Home.png)
+![Home Page](./Screenshots/Home.png)
 
 ---
 
 ## Admin Page
 
-![Admin Page](./screenshots/Admin1.png)
+![Admin Page](./Screenshots/Admin1.png)
 
-![Admin Page](./screenshots/Admin2.png)
+![Admin Page](./Screenshots/Admin2.png)
 
 # Setup Instructions
 
