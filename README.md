@@ -1,5 +1,19 @@
 # SYNCUP - Realtime Coaching Feed
 
+# Screenshots
+
+## Home Page
+
+![Home Page](./screenshots/Home.png)
+
+---
+
+## Admin Page
+
+![Admin Page](./screenshots/Admin1.png)
+
+![Admin Page](./screenshots/Admin2.png)
+
 # Setup Instructions
 
 ## 1. Clone Repository
